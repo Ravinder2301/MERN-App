@@ -1,0 +1,65 @@
+// import Gujrati from '../Images/gujrati.jpeg'
+// import Idli from '../Images/Idli.avif'
+// import Masala from '../Images/masala.jpg'
+// import Biryani2 from '../Images/Biryani2.avif'
+// import Biryani from '../Images/Biryani.avif'
+
+// export const MenuList = [
+    
+//     {
+//         name: 'Biryani',
+//         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, rem!",
+//         image: Biryani2,
+//         price: 500,
+//         // rating: [<GradeIcon/>, <GradeIcon/>, <GradeIcon/>,<StarBorderIcon/>]
+//     },
+//     {
+//         name: 'Chola',
+//         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, rem!",
+//         image: "https://www.jetspizza.com/wp-content/uploads/2022/01/Website_Specialty-Pizza_-All-Meaty-1-900x600.jpg",
+//         price: 250,
+//         // rating: [<GradeIcon/>, <GradeIcon/>,<StarBorderIcon/>, <StarBorderIcon/>]
+//     },
+//     {
+//         name: 'Idli Sambhar',
+//         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, rem!",
+//         image: Idli,
+//         price: 300,
+//         // rating: [<GradeIcon/>, <GradeIcon/>, <GradeIcon/>,<GradeIcon/>]
+//     },
+//     {
+//         name: 'Burger king',
+//         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, rem!",
+//         image: "https://cdn.eateasily.com/food/6644327096c27719a5a048b1822d38f5/5023042_large.jpg?v1=1705088918",
+//         price: 100,
+//         // rating: [<GradeIcon/>, <GradeIcon/>, <StarHalfIcon/>,<StarBorderIcon/>]
+//     },
+//     {
+//         name: 'Masala Dosa',
+//         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, rem!",
+//         image: Masala,
+//         price: 100,
+//         // rating: [<GradeIcon/>, <GradeIcon/>, <StarHalfIcon/>,<StarBorderIcon/>]
+//     },
+//     {
+//         name: 'Paneer',
+//         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, rem!",
+//         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv4CLPeG6ELLXtLsL_quZrWQjm01SsjGFsydV-kdrXOll5JwVC9Hx5tGusHjHU2ejs3SI&usqp=CAU",
+//         price: 400,
+//         // rating: [<GradeIcon/>, <GradeIcon/>, <StarBorderIcon/>,<StarBorderIcon/>]
+//     },
+//     {
+//         name: 'Gujrati',
+//         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, rem!",
+//         image: Gujrati,
+//         price: 500,
+//         // rating: [<GradeIcon/>, <GradeIcon/>, <GradeIcon/>,<StarBorderIcon/>]
+//     },
+//     {
+//         name: 'Biryani',
+//         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum, rem!",
+//         image: Biryani,
+//         price: 500,
+//         // rating: [<GradeIcon/>, <GradeIcon/>, <GradeIcon/>,<StarBorderIcon/>]
+//     }
+// ]
